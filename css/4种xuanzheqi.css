@@ -1,0 +1,29 @@
+
+
+
+/* 元素选择器 */
+h1{
+    color: red;
+}
+
+
+/* id选择器 */
+#red{
+    color: coral;
+}
+
+
+
+/* 类选择器 */
+.center{
+    text-align: center;
+    color: blueviolet;
+}
+
+
+/* 属性选择器 */
+a[target]{
+    background-color: yellow;
+}
+
+
